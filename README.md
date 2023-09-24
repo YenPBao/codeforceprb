@@ -1,2 +1,3 @@
 # codeforceprb
-an problem that i cant fix
+an game theory problem 
+
